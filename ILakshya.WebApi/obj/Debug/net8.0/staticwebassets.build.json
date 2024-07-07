@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "2X7zIuLYWoPY3xFNRkK3BDtllNrxC8g/xZhRBOOKqVU=",
+  "Source": "ILakshya.WebApi",
+  "BasePath": "_content/ILakshya.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ILakshya.WebApi\\wwwroot",
+      "Source": "ILakshya.WebApi",
+      "ContentRoot": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\wwwroot\\",
+      "BasePath": "_content/ILakshya.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
